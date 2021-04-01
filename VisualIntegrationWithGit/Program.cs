@@ -6,7 +6,7 @@ namespace VisualIntegrationWithGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Branch01!");
+            Console.WriteLine("Hello");
         }
     }
 }
